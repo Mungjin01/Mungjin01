@@ -7,14 +7,14 @@
 
 </div>
 <br>
-<a href="https://solved.ac/whkakrkr"><img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31sjel3mwc2yhd6o2isbdwk7fk4m&count=4"/></a>
+<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31sjel3mwc2yhd6o2isbdwk7fk4m&count=4"/>
 
 ### PROFILE 
 - ✏ Currently learning Three.js
 - 💻 Majoring in Computer Science
 - 🎇 Interested in UI/UX, WebGL
 
-<a href="https://solved.ac/whkakrkr"><img align="left" src="https://github-readme-tistory-card.vercel.app/api?name=jungmin402&postId=68&" width="380"/></a>
+<img align="left" src="https://github-readme-tistory-card.vercel.app/api?name=jungmin402&postId=68&" width="380"/>
 
 
 <br>
