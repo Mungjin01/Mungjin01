@@ -14,7 +14,7 @@
 - 💻 Majoring in Computer Science
 - 🎇 Interested in UI/UX, WebGL
 
-<img align="left" src="https://github-readme-tistory-card.vercel.app/api?name=jungmin402&postId=68&" width="380"/>
+<a href="https://jungmin402.tistory.com/68"><img align="left" src="https://github-readme-tistory-card.vercel.app/api?name=jungmin402&postId=68&" width="380"/></a>
 
 
 <br>
