@@ -7,7 +7,7 @@
 
 </div>
 <br>
-<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31sjel3mwc2yhd6o2isbdwk7fk4m&count=4"/>
+<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31sjel3mwc2yhd6o2isbdwk7fk4m&count=4" width="380"/>
 
 ### PROFILE 
 - ✏ Currently learning Three.js
