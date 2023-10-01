@@ -14,7 +14,7 @@
 - 💻 Majoring in Computer Science
 - 🎇 Interested in UI/UX, WebGL
 
-<a href="https://jungmin402.tistory.com/79"><img align="left" src="https://github-readme-tistory-card.vercel.app/api?name=jungmin402&postId=68&" width="380"/></a>
+<a href="https://jungmin402.tistory.com/79"><img align="left" src="https://github-readme-tistory-card.vercel.app/api?name=jungmin402&postId=79&" width="380"/></a>
 <br><br><br><br><br><br>
 <a href="https://github.com/Mungjin01">![image](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)</a>
 <a href="https://jungmin402.tistory.com/">![image](https://img.shields.io/badge/Tistory-184D66?style=flat-square&logo=Telegraph&logoColor=white)</a>
