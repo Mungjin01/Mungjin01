@@ -15,7 +15,7 @@
 - 🎇 Interested in UI/UX, WebGL
 
 <a href="https://git.io/streak-stats"><img align="left" src="https://streak-stats.demolab.com/?user=Mungjin01&theme=shadow-green" width="400"/></a>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beckaljm@gmail.com)](mailto:beckaljm@gmail.com)
 <a href="https://jungmin402.tistory.com/">![image](https://img.shields.io/badge/Tistory-184D66?style=flat-square&logo=Telegraph&logoColor=white)</a>
 
